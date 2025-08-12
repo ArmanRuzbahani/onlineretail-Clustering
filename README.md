@@ -1,6 +1,6 @@
 # 🛒 Customer Segmentation – UK Online Retail Data
 
-This project uses **real-world e-commerce transaction data** from the [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) 📦.  
+This project uses **real-world e-commerce transaction data** from the [UCI Machine Learning Repository – Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) 📦.  
 The dataset contains **actual purchase records** of customers in the United Kingdom from **December 2010 to December 2011**.
 
 ---
